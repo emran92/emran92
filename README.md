@@ -14,7 +14,7 @@
 
 ```
 {
-   "🧑‍💻 working_on":[
+   "🧑‍💻working_on":[
       "KillerInk Mobile app",
       "Payzocard website."
    ],
