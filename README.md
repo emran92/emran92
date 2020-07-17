@@ -12,33 +12,44 @@
 
 #### A Computer Science Graduate and Freelance Programmer
 
-- 🔭 I’m currently building KillerInk Mobile app and Payzocard website.
-- :books: I’m currently learning Dart, Flutter, NodeJS, VueJS.
-- :computer: Techs: Dart, Flutter, PHP, Laravel
-- :pushpin: Interests: UX, UI Design, Video Editing, Motion Graphics.
-- 💬 Ask me about Dart, Flutter.
-- 👯 I’m looking to collaborate on Flutter Community
-- ⚡ Fun fact: 🎮 and ☕
-
-
 ```
 {
-   "frontend":[
-      "HTML5",
-      "CSS",
-      "JS",
-      "Flutter"
+   "🧑‍💻 working_on":[
+      "KillerInk Mobile app",
+      "Payzocard website."
    ],
-   "backend":[
-      "PHP",
-      "Laravel",
+   "📚learning":[
+      "Dart",
+      "Flutter",
+      "NodeJS",
+      "VueJS"
+   ],
+   "💬ask_me":[
+      "Flutter",
       "Dart"
    ],
-   "database":[
-      "SQL",
-      "Firebase",
-      "SQLite"
-   ]
+   "🎯fun_fact":[
+      "🎮",
+      "☕"
+   ],
+   "💻technologies":{
+      "frontEnd":[
+         "HTML5",
+         "CSS",
+         "JS",
+         "Flutter"
+      ],
+      "backEnd":[
+         "PHP",
+         "Laravel",
+         "Dart"
+      ],
+      "databases":[
+         "SQL",
+         "Firebase",
+         "SQLite"
+      ]
+   }
 }
 ```
 
