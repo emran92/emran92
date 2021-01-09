@@ -15,7 +15,7 @@
 ```
 {
    "🧑‍💻working_on":[
-      "KillerInk Mobile app",
+      "Shalanka Mobile app",
       "Payzocard website."
    ],
    "📚learning":[
