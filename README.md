@@ -15,8 +15,7 @@
 ```
 {
    "🧑‍💻working_on":[
-      "Shalanka Mobile app",
-      "Payzocard website."
+      "JobsNavi"
    ],
    "📚learning":[
       "Dart",
