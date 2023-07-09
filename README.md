@@ -10,7 +10,7 @@
   </samp>
 </p>
 
-#### A Computer Science Graduate and Freelance Programmer
+#### A Computer Science Graduate and Programmer
 
 ```
 {
